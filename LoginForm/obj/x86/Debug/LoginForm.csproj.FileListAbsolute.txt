@@ -1,0 +1,15 @@
+C:\Users\qkrdy\source\repos\LoginForm\LoginForm\bin\x86\Debug\LoginForm.exe.config
+C:\Users\qkrdy\source\repos\LoginForm\LoginForm\bin\x86\Debug\LoginForm.exe
+C:\Users\qkrdy\source\repos\LoginForm\LoginForm\bin\x86\Debug\LoginForm.pdb
+C:\Users\qkrdy\source\repos\LoginForm\LoginForm\bin\x86\Debug\Interop.WMPLib.dll
+C:\Users\qkrdy\source\repos\LoginForm\LoginForm\bin\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\qkrdy\source\repos\LoginForm\LoginForm\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\qkrdy\source\repos\LoginForm\LoginForm\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\qkrdy\source\repos\LoginForm\LoginForm\obj\x86\Debug\LoginForm.csproj.ResolveComReference.cache
+C:\Users\qkrdy\source\repos\LoginForm\LoginForm\obj\x86\Debug\LoginForm.Form1.resources
+C:\Users\qkrdy\source\repos\LoginForm\LoginForm\obj\x86\Debug\LoginForm.Properties.Resources.resources
+C:\Users\qkrdy\source\repos\LoginForm\LoginForm\obj\x86\Debug\LoginForm.csproj.GenerateResource.cache
+C:\Users\qkrdy\source\repos\LoginForm\LoginForm\obj\x86\Debug\LoginForm.csproj.CoreCompileInputs.cache
+C:\Users\qkrdy\source\repos\LoginForm\LoginForm\obj\x86\Debug\LoginForm.exe
+C:\Users\qkrdy\source\repos\LoginForm\LoginForm\obj\x86\Debug\LoginForm.pdb
+C:\Users\qkrdy\source\repos\LoginForm\LoginForm\obj\x86\Debug\LoginForm.csprojAssemblyReference.cache
